@@ -1,16 +1,5 @@
 import type { Product } from "@/types";
 
-/**
- * lib/products.ts
- * -----------------------------------------------------------------------
- * Local product catalog used until Tebex packages are wired up to drive
- * the storefront. The shape mirrors what we'll eventually map Tebex
- * `TebexPackage` records into, so swapping the data source later only
- * means changing these functions' implementations — no component code
- * needs to change.
- * -----------------------------------------------------------------------
- */
-
 export const products: Product[] = [
     {
         id: "stock-305",
