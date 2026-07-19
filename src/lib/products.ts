@@ -102,7 +102,7 @@ export const products: Product[] = [
         tagline: "Where dazzling performances meet unforgettable nights.",
         description:
             "A premium cabaret built for immersive roleplay. Featuring a stylish venue, captivating stage performances, VIP areas, and an authentic nightlife atmosphere, it provides the perfect place for players to relax, socialize, host events, and create unforgettable moments. Designed to fit naturally into any city, it adds a new level of entertainment to your roleplay experience.",
-        price: 20.0,
+        price: 2.0,
         compareAtPrice: 25.99,
         currency: "EUR",
         images: [
