@@ -94,7 +94,7 @@ export const products: Product[] = [
         youtubeUrl: "https://www.youtube.com/watch?v=8pYaqw27r50",
     },
         {
-        id: "delights-cabaret",
+        id: "delighs-cabaret",
         tebexPackageId: 7568778,
         slug: "delights-cabaret",
         name: "DELIGHTS CABARET",
