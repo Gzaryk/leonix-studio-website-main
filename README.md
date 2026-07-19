@@ -8,4 +8,4 @@
 
 # Overview
 
-Website for Leonix Studio — built with Next.js.
+Website for Leonix Studio — built with Next.js !
